@@ -26,4 +26,4 @@ const data = response.data;
 And in the example we've console logged it, i.e. data.userId, data.streak, data.activities.
 
 UML Diagram:
-![Alt text]("Sequence diagram.png")
+![Sequence diagram](https://github.com/user-attachments/assets/bb57b264-ea8d-41d3-898c-05f0eac5db56)
