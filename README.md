@@ -24,3 +24,6 @@ const userData = await axios.post('http://localhost:3000/record', {
 
 const data = response.data;
 And in the example we've console logged it, i.e. data.userId, data.streak, data.activities.
+
+UML Diagram:
+![Alt text]("Sequence diagram.png")
